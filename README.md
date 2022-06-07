@@ -1,5 +1,7 @@
 # EksiCrawler
 
-Crawls around EksiSözlük to gather today's most popular entries.
+Crawls around Eksi to gather today's most popular entries.
+
 Does it have a purpose? No.
-Is just typing EksiSozluk into your browser easier? Yes.
+
+Is just typing Eksi into your browser easier? Yes.
