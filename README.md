@@ -1,9 +1,4 @@
 # EksiCrawler
 
-Crawls around Eksi to gather today's most popular entries.
-
-Does it have a purpose? No.
-
-Is just typing Eksi into your browser easier? Yes.
-
-Built with Jsoup library.
+Crawls around Eksi to gather today's most popular entries, and sort them.
+Makes possible to read more efficiently, lightly and freely.
